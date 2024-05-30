@@ -12,3 +12,7 @@ CREATE TABLE users (
 ![image](https://github.com/Nandhini-php-Developer/add/assets/164607559/78143fae-180a-47e9-943c-a58b82e7a2a6)
 
 
+![image](https://github.com/Nandhini-php-Developer/add/assets/164607559/bce0dec6-a1f0-4080-8597-a29c555108ad) 
+
+![image](https://github.com/Nandhini-php-Developer/add/assets/164607559/0b8ab5ed-f72e-4a60-93ca-26a2b6881ddc)
+
